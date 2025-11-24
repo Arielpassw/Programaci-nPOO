@@ -130,3 +130,42 @@ Interfaz de consola mediante un menú interactivo.
 
 ---
 
+---
+
+# TechESFOT
+
+<img width="827" height="521" alt="image" src="https://github.com/user-attachments/assets/10d8edcd-736b-46ae-b87c-03f0fa827f8a" />
+
+<img width="876" height="623" alt="image" src="https://github.com/user-attachments/assets/3638e12e-13d9-45c2-91aa-01348ab9a2ce" />
+
+<img width="771" height="229" alt="image" src="https://github.com/user-attachments/assets/b51ce397-e993-4cb8-9480-67512a173005" />
+
+<img width="831" height="449" alt="image" src="https://github.com/user-attachments/assets/7fb405b2-920b-45c8-97ae-7c41bf9db300" />
+
+<img width="738" height="416" alt="image" src="https://github.com/user-attachments/assets/5a6ac8b1-3118-4989-bc5a-f4344051439c" />
+
+<img width="791" height="276" alt="image" src="https://github.com/user-attachments/assets/4f249101-869f-4fb6-987a-b955a74b3aee" />
+
+<img width="646" height="395" alt="image" src="https://github.com/user-attachments/assets/90aea51f-ef10-455f-bde8-55c14b0d63e8" />
+
+<img width="765" height="352" alt="image" src="https://github.com/user-attachments/assets/34fef303-9e10-4410-8127-6e33660a6486" />
+
+<img width="820" height="577" alt="image" src="https://github.com/user-attachments/assets/1e9c3b1b-7497-46d4-bd34-453de1070637" />
+
+<img width="817" height="498" alt="image" src="https://github.com/user-attachments/assets/b087c8e8-8ed6-4353-add7-b5da518e8ea4" />
+
+<img width="766" height="437" alt="image" src="https://github.com/user-attachments/assets/96e2b0c9-c1ef-4ab5-9314-b60019d2f288" />
+
+<img width="800" height="414" alt="image" src="https://github.com/user-attachments/assets/f9f8cea6-c00d-402d-ba4a-9f6afab1061d" />
+
+<img width="814" height="281" alt="image" src="https://github.com/user-attachments/assets/9623d75f-01bf-4f38-af8d-100243d4d766" />
+
+<img width="656" height="616" alt="image" src="https://github.com/user-attachments/assets/1a98b9b3-4437-4be8-8b63-6e9fde100e16" />
+
+<img width="812" height="258" alt="image" src="https://github.com/user-attachments/assets/dd826d7b-c07b-4c5f-bf8c-daa25783726d" />
+
+<img width="792" height="635" alt="image" src="https://github.com/user-attachments/assets/3ab39c3a-3f2c-49d2-a7db-a1e22a8eb33c" />
+
+<img width="823" height="404" alt="image" src="https://github.com/user-attachments/assets/7880cd34-124b-47e3-a7ed-59fb9285679a" />
+
+
