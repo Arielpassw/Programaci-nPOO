@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/POO.iml" filepath="$PROJECT_DIR$/POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Taller S3/Taller S3.iml" filepath="$PROJECT_DIR$/Taller S3/Taller S3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Taller_ejercicios_S3/Taller_ejercicios_S3.iml" filepath="$PROJECT_DIR$/Taller_ejercicios_S3/Taller_ejercicios_S3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tarea S2/Tarea S2.iml" filepath="$PROJECT_DIR$/Tarea S2/Tarea S2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tarea S3.1/Tarea S3.1.iml" filepath="$PROJECT_DIR$/Tarea S3.1/Tarea S3.1.iml" />
+    </modules>
+  </component>
+</project>
