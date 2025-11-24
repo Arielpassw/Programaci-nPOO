@@ -22,7 +22,7 @@ El sistema simula de manera completa el proceso de registro, votación y selecci
 
 ---
 
-## 🏗 Arquitectura del Proyecto
+## Arquitectura del Proyecto
 
 ### 🔹 1. **Candidata (Clase Abstracta)**
 Contiene:
