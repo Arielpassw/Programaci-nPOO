@@ -68,7 +68,5 @@ public abstract class Candidata {
         this.punjeJurado = punjeJurado;
     }
 
-    public abstract void mostrarDetalles(
-
-    );
+    public abstract void mostrarDetalles();
 }
